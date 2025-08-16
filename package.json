@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --no-optimize --no-scope-hoist --dist-dir ./dirt"
+    "build": "parcel build index.html --no-optimize --no-scope-hoist --dist-dir ./dist"
   },
   "author": "tan-haoyu",
   "license": "ISC",
